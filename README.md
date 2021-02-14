@@ -19,4 +19,4 @@ Sources: https://www.jetbrains.com/help/webstorm/commit-and-push-changes.html
 https://njit.instructure.com/courses/15500/files/1757262?module_item_id=406840 (Powerpoint)
 
 Glossary 
-** ** This makes the text bold, I heard**
+**This makes the text bold, I heard**
