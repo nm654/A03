@@ -33,3 +33,11 @@ https://njit.instructure.com/courses/15500/files/1757262?module_item_id=406840 (
 **Pull** Requesting data from another computer (Push takes data without a request)
 **Remote** A computer a user can't access physically but can still use functions (think of a virtual machine)
 **Repository** A central file location where data is stored
+
+Glossary Sources:
+https://www.techopedia.com/definition/18058/branch
+https://en.wikipedia.org/wiki/Clone_(computing)
+https://searchitoperations.techtarget.com/definition/GitHub
+https://blog.axosoft.com/learn-git-merge-conflict/
+https://techterms.com/definition/push
+https://www.webopedia.com/definitions/pull/
