@@ -13,4 +13,7 @@ Connecting Webstorm to Github Tutorial
    
 7. Create a webstorm HTML File from the File Window on Webstorm
 8.Add files to Git with Add to Git dialog.
- 9. Commit changes with the commit change button and Commit and Push  
+ 9. Commit changes with the commit change button and Commit and Push 
+
+Sources: https://www.jetbrains.com/help/webstorm/commit-and-push-changes.html
+https://njit.instructure.com/courses/15500/files/1757262?module_item_id=406840 (Powerpoint)
